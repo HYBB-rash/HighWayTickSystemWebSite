@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: SA
+    password: Hyong430Fbing
+    url: jdbc:sqlserver://120.79.204.238;databaseName=HighWayTicketSystem;
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    type: com.alibaba.druid.pool.DruidDataSource
